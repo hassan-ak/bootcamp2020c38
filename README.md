@@ -83,6 +83,9 @@ External Links
 - [Trigger netlify build on changes in contentful](https://www.contentful.com/developers/docs/tutorials/general/automate-site-builds-with-webhooks) 
 - [Deployed URL](https://quizzical-shannon-7cc5d5.netlify.app/)
 
+Gatsby Blog Site
+- Blog Site in Gatsby with dynamic page generation of each post on build time. Integrated with netlify and auto build on commit plus integrated with contentful so as changes will be published in contentful it will trigger build on netlify
+
 # Step25 Mongodb Mongoose Crud Node
 - Mongodb Database with Mongoose library, Setup a Collection, and Create an Index with Node.js
 
@@ -134,7 +137,3 @@ Topics Covered:-
 - Populate related documents
 - Related document one to many
 - Related document one to many2
-
-
-Gatsby Blog Site
-- Blog Site in Gatsby with dynamic page generation of each post on build time. Integrated with netlify and auto build on commit plus integrated with contentful so as changes will be published in contentful it will trigger build on netlify
