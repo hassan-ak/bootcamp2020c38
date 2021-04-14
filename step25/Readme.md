@@ -15,7 +15,7 @@ External Links:-
 - [Install DotEnv](https://www.npmjs.com/package/dotenv)
 - [article](https://studio3t.com/knowledge-base/articles/mongodb-atlas-tutorial/)
 
-Steps to Follow:
+Steps to Follow:-
 - [Signup for Mongodb Atlas Service](https://www.mongodb.com/cloud/atlas/signup)
 - Create a Project Directory
   - npm init
@@ -26,3 +26,26 @@ Steps to Follow:
 - Write and Run Node Programs:
   - node step00-database-connection
   - Do the same with all steps
+
+Topics Covered:-
+- Database connection
+- create schema add document
+- Create schema with index
+- Create multiple documents
+- Fetch all documents
+- Find by field
+- Find by id
+- Find single document
+- Find and update document
+- Update one document
+- Update many document
+- FindById and update
+- Findone and update
+- Replace document
+- Delete document
+- Delete many documents
+- FindById and delete
+- Related document one to one
+- Populate related documents
+- Related document one to many
+- Related document one to many2
