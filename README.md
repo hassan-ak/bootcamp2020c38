@@ -248,3 +248,8 @@ Steps:-
 - Now the site is published and you can copy the link given by the tool in the browser.
 - Add /.netlify in .gitignore before pushing to public repo
 
+## Online Lectures
+- [Link1](https://www.youtube.com/watch?v=ZXzxL4LDQs4&ab_channel=PanacloudServerlessSaaSTraining)
+- [Link2](https://www.facebook.com/zeeshanhanif/videos/10224741314065089/)
+- [Link3](https://www.youtube.com/watch?v=tEpOHCrR9Z8&ab_channel=PanacloudServerlessSaaSTraininginUrdu)
+- [Link4](https://www.facebook.com/zeeshanhanif/videos/10224750968586446/)
